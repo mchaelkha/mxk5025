@@ -5,7 +5,7 @@ Student at Rochester Institute of Technology. Previous software engineer intern 
 Projects that I have used to explore technologies and other resources.
 * Full-stack apps
   * [burger-order-microservice (ruby)](https://github.com/mxk5025/burger-order-microservice) - Simulation of how to use `AWS SQS` as a distributed messaging system with `AWS ECS` deploying `Docker` containers on `Fargate`. Autoscaling of services with `CloudWatch` metric monitoring. Check out the [demo here](https://github.com/mxk5025/burger-order-microservice#demo).
-* Frontend apps (static)
+* Frontend apps (static or public API used)
   * [swatches (React)](https://github.com/mxk5025/swatches) - integration of color-related libraries to make color palettes. Features ability to find colors from any unicode text, translate to RGB,
   * [job-app-tracker (React)](https://github.com/mxk5025/job-app-tracker) - Kanban board with an overlay form for  creation card creation.
   * [stock-portfolio (React)](https://github.com/mxk5025/stock-portfolio) - search and tabularize stock information using the [IEX Cloud API](https://iexcloud.io/docs/api/).
