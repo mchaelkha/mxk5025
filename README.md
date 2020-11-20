@@ -1,7 +1,10 @@
-### Software Engineer
+## Welcome!
 
-**Now Playing** on Spotify
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mxk5025&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://spotify-now-playing-one-omega.vercel.app/now-playing">
-    <img src="https://spotify-now-playing-one-omega.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mxk5025&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mxk5025&count_private=true)
+
+### Links
+[__Website__](https://michael-kha.com) • [__Linkedin__](https://www.linkedin.com/in/michaelkha/) • [__Medium__](https://medium.com/@mkha)
